@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": "f60f969a-aa91-416a-995f-55fcd33d098e",
+      "title": "türkçe devam",
+      "date": "2023-10-10T17:45:36.770Z",
+      "isDone": false
+    },
+    {
+      "id": "399567c8-5bd4-48d5-b020-3dda04377f7c",
+      "title": "sosyal bilgiler ",
+      "date": "2023-10-10T17:45:46.846Z",
+      "isDone": false
+    },
+    {
+      "id": "29608802-83a6-4352-a05e-435bb30f9ccb",
+      "title": "matematik  ",
+      "date": "2023-10-10T17:51:32.574Z",
+      "isDone": true
+    },
+    {
+      "id": "a07295bb-37b2-4556-8c62-41b74e058736",
+      "title": "sosyal bilgiler 22",
+      "date": "2023-10-10T17:51:51.158Z",
+      "isDone": true
+    },
+    {
+      "id": "13b4c123-aa4e-4185-8dfd-4491fdf6481c",
+      "title": "hukuk   ",
+      "date": "2023-10-10T17:53:33.430Z",
+      "isDone": true
+    },
+    {
+      "id": "e57c8581-d1e2-4045-a751-7a2b5c30d0dc",
+      "title": "dini bilgiler",
+      "date": "2023-10-10T17:54:53.302Z",
+      "isDone": false
+    }
+  ],
+  "users": [
+    {
+      "id": "11asd23234",
+      "name": "Ahmet",
+      "email": "ahmet0@gmail.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": "asfksk143",
+      "title": "İş",
+      "image": "www.resim.com"
+    }
+  ]
+}
